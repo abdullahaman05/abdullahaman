@@ -1,0 +1,13 @@
+.container{
+    color: blue;
+    background-color: aqua;
+    border: 5px black;
+    padding:20px;
+    margin:20px;
+}
+.info{
+    background-color: bisque;   
+}
+.blue{
+    border: 5px black outset;
+}
